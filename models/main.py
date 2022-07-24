@@ -158,7 +158,7 @@ def main():
         print("Selected clients:", c_ids)
 
         if args.swa and i >= swa_start:
-            if i == swa_start and not args.ablation:
+            if i == swa_start:
                 print("Setting up SWA...")
                 server.setup_swa_model()
             # Update lr according to https://arxiv.org/pdf/1803.05407.pdf
