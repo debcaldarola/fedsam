@@ -3,6 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-generalization-in-federated/federated-learning-on-landmarks-user-160k)](https://paperswithcode.com/sota/federated-learning-on-landmarks-user-160k?p=improving-generalization-in-federated)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-generalization-in-federated/federated-learning-on-cifar-100-alpha-0-5)](https://paperswithcode.com/sota/federated-learning-on-cifar-100-alpha-0-5?p=improving-generalization-in-federated)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-generalization-in-federated/federated-learning-on-cifar-100-alpha-0-5-5)](https://paperswithcode.com/sota/federated-learning-on-cifar-100-alpha-0-5-5?p=improving-generalization-in-federated)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/improving-generalization-in-federated/federated-learning-on-cityscapes)](https://paperswithcode.com/sota/federated-learning-on-cityscapes?p=improving-generalization-in-federated)
 
 This repository contains the official implementation of
 > Caldarola, D., Caputo, B., & Ciccone, M. [_Improving Generalization in Federated Learning by Seeking Flat Minima_](https://arxiv.org/abs/2203.11834), _European Conference on Computer Vision_ (ECCV) 2022.
