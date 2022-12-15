@@ -71,10 +71,11 @@ chmod +x cifar10.sh
 ## Bibtex
 ```text
 @inproceedings{caldarola2022improving,
-  title={Improving Generalization in Federated Learning by Seeking Flat Minima},
+  title={Improving generalization in federated learning by seeking flat minima},
   author={Caldarola, Debora and Caputo, Barbara and Ciccone, Marco},
   booktitle={European Conference on Computer Vision},
+  pages={654--672},
   year={2022},
-  organization={Springer, Cham}
+  organization={Springer}
 }
 ```
