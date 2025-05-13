@@ -8,6 +8,17 @@
 This repository contains the official implementation of
 > Caldarola, D., Caputo, B., & Ciccone, M. [_Improving Generalization in Federated Learning by Seeking Flat Minima_](https://arxiv.org/abs/2203.11834), _European Conference on Computer Vision_ (ECCV) 2022.
 
+[ [Proceedings](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830636.pdf)] [ [ArXiv](https://arxiv.org/abs/2203.11834) ] [ [Bibtex](#bibtex-citation) ]
+
+## News :loudspeaker:
+**\[2025.02\]**  Our follow-up work **FedGloSS** has been accepted at **CVPR 2025**! :tada: 
+FedGloSS prioritizes the optimization of _global_ flatness in Federated Learning by using Sharpness-Aware Minimization on the server side, while maintaining communication efficiency.
+
+:book: Read the paper: [ [ArXiv](https://arxiv.org/abs/2412.03752) ] 
+
+💻 Check out the code: [ [GitHub](https://github.com/pietrocagnasso/fedgloss/) ]
+
+
 ## Abstract
 Models trained in federated settings often suffer from degraded performances and fail at generalizing, especially
 when facing heterogeneous scenarios. In this work, we investigate such behavior through the lens of geometry of the loss
@@ -68,7 +79,7 @@ chmod +x cifar10.sh
 ./cifar10.sh
 ```
 
-## Bibtex
+## Bibtex citation
 ```text
 @inproceedings{caldarola2022improving,
   title={Improving generalization in federated learning by seeking flat minima},
