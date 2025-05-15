@@ -14,9 +14,13 @@ This repository contains the official implementation of
 **\[2025.02\]**  Our follow-up work **FedGloSS** has been accepted at **CVPR 2025**! :tada: 
 FedGloSS prioritizes the optimization of _global_ flatness in Federated Learning by using Sharpness-Aware Minimization on the server side, while maintaining communication efficiency.
 
-:book: Read the paper: [ [ArXiv](https://arxiv.org/abs/2412.03752) ] 
+📄 Read the paper: [ [ArXiv](https://arxiv.org/abs/2412.03752) ] 
 
 💻 Check out the code: [ [GitHub](https://github.com/pietrocagnasso/fedgloss/) ]
+
+**\[2023\]** Discover how **WiMA** (**_Window-based Model Averaging_**) overcomes the limitations of SWA (Stochastic Weight Averaging) in FL - accepted at **ICCV23 Workshops**! :tada:
+
+📄 Read the paper: [ [CVF Proceedings](https://openaccess.thecvf.com/content/ICCV2023W/WiCV/html/Caldarola_Window-Based_Model_Averaging_Improves_Generalization_in_Heterogeneous_Federated_Learning_ICCVW_2023_paper.html) ] 
 
 
 ## Abstract
