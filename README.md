@@ -14,7 +14,7 @@ This repository contains the official implementation of
 **\[2025.02\]**  Our follow-up work **FedGloSS** has been accepted at **CVPR 2025**! :tada: 
 FedGloSS prioritizes the optimization of _global_ flatness in Federated Learning by using Sharpness-Aware Minimization on the server side, while maintaining communication efficiency.
 
-📄 Read the paper: [ [ArXiv](https://arxiv.org/abs/2412.03752) ] 
+📄 Read the paper: [ [ArXiv](https://arxiv.org/abs/2412.03752) ] [ [CVF Proceedings](https://openaccess.thecvf.com/content/CVPR2025/html/Caldarola_Beyond_Local_Sharpness_Communication-Efficient_Global_Sharpness-aware_Minimization_for_Federated_Learning_CVPR_2025_paper.html) ] 
 
 💻 Check out the code: [ [GitHub](https://github.com/pietrocagnasso/fedgloss/) ]
 
